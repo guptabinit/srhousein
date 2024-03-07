@@ -1,0 +1,1461 @@
+{
+  "screenTitles": {
+    "accountScreen": "Account",
+    "chatScreen": "Chat",
+    "loginScreen": "Log In",
+    "signUpScreen": "Sign Up",
+    "settingsScreen": "Settings",
+    "myListingsScreen": "My Listings",
+    "favoritesScreen": "Favorites",
+    "reportScreen": "Report",
+    "myMembershipScreen": "My Membership",
+    "contactUsScreen": "Contact Us",
+    "fAQScreen": "FAQ",
+    "howtoSellFastScreen": "How to sell fast",
+    "myProfileScreen": "My Profile",
+    "editPersonalDetailScreen": "Edit Personal Detail",
+    "aboutAppScreen": "HomListi",
+    "tNCScreen": "Terms & Conditions",
+    "privacyPolicyScreen": "Privacy Policy",
+    "thirdPartyLicensesScreen": "Third Party Licenses",
+    "editListingScreen": "Edit Listing",
+    "selectLocationScreen": "Select Location",
+    "sendEmailScreen": "Send Email",
+    "selectCategoryScreen": "Select Category",
+    "storeDetailsScreen": "Store Details",
+    "storeMoreDetailsScreen": "More Details",
+    "allStores": "All Stores",
+    "myStoreScreen": "My Store",
+    "membershipsScreen": "Membership Packages",
+    "paymentMethodScreen": "Payment Detail",
+    "promoteScreen": "Promote Listing",
+    "paymentsScreen": "Payments",
+    "paymentDetailScreen": "Payment Detail",
+    "oTPScreen": "OTP Verification",
+    "documentsScreen": "My Documents",
+    "privacynSafetyScreen": "Privacy & Safety",
+    "hiddenListingsScreen": "Hidden Listings",
+    "blockedUsersScreen": "Blocked Users",
+    "payScreen": "Make Payment",
+    "zeroPayment": "Payment"
+  },
+  "safetyScreenTexts": {
+    "hiddenListingsBtn": "Hidden Listings",
+    "blockedUsersBtn": "Blocked Users"
+  },
+
+  "adMobTexts": {
+    "okButton": "OK",
+    "appDisabledAlert": "This app delivers you ads using google AdMob. If you want to enable personalised ads, you can allow tracking for this app from the settings"
+  },
+
+  "oTPScreenText": {
+    "phoneInputTitle": "Enter Phone Number",
+    "oTPInputTitle": "Enter OTP",
+    "phoneInputPlaceHolder": "Phone number",
+    "getOTPButtonTitle": "Send OTP",
+    "verifyBtnTitle": "Verify",
+    "retryBtnTitle": "Resend Otp",
+    "successTitle": "Verification Successful",
+    "errorTitle": "Verification Failed",
+    "successMessage": "Phone number is successfully verified.",
+    "errorMessage": "Error verifying OTP",
+    "okBtnTitle": "Ok",
+    "signUpBtnTitle": "Complete Sign Up"
+  },
+
+  "weekDayNames": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+
+  "alerts": {
+    "notificationRegistrationFail": "Failed to register device for push notification",
+    "notificationPermission": "Please enable permission to get push notifications.",
+    "simulatorAlert": "Must use physical device for Push Notifications"
+  },
+
+  "tabTitles": {
+    "home": "Home",
+    "search": "Search",
+    "chatList": "Chats",
+    "account": "Account",
+    "new": "Ad New"
+  },
+
+  "drawerScreenTexts": {
+    "accountTitle": "YOUR ACCOUNT",
+    "supportTitle": "LEGALS & SUPPORT",
+    "copyrightText": "2022© All right reserved by",
+    "linkText": "Radiustheme",
+    "link": "https://radiustheme.net/"
+  },
+
+  "headerBackButtonTitle": "Back",
+  "chatBadgeNumber": "9+",
+
+  "accountScreenTexts": {
+    "loginButtonText": "Log in / Sign up",
+    "logOutButtonText": "Log out",
+    "successMessage": "SuccessFully logged out",
+    "loginNotice": "Login for better experience"
+  },
+
+  "settingsScreenTexts": {
+    "select": "Select",
+    "currencyTitle": "Currency",
+    "screenTitle": "Settings",
+    "notificationTitle": "Notification",
+    "languageTitle": "Language",
+    "ListingApprovalNotiTitle": "Ads Approval",
+    "newsletterNotiTitle": "Newsletter",
+    "messageNotiTitle": "New Chat",
+    "reminderBeforeListingExpire": "Reminder before ads expire",
+    "expiredListingNotification": "Expired Listing",
+    "onlyAdmin": {
+      "newListing": "New Ads",
+      "newOrder": "New Orders",
+      "newComment": "New Comment"
+    },
+    "logoutbuttonTitle": "Log Out",
+    "viewStyleTitle": "Listing display style",
+    "listView": "List View"
+  },
+
+  "allStoresTexts": {
+    "loadingText": "Getting store data",
+    "noShopText": "Sorry, No store found.",
+    "storeAdCount": "ads",
+    "searchPlaceholder": "Search..."
+  },
+
+  "chatListScreenTexts": {
+    "noChatTitleMessage": "Currently you have no chats",
+    "noChatMessage": "Start buying and selling!",
+    "deletePromptMessage": "Do you really want to delete this conversation?",
+    "cancelButtonTitle": "Cancel",
+    "deleteButtonTitle": "Delete",
+    "noUserMessage": "Currently you're not logged in\nPlease log in or sign up to get your chat data",
+    "loadingMessage": "Getting conversation list from server",
+    "chatDeleteSuccessText": "Successfully deleted",
+    "chatDeleteErrorText": "Error! Please try again",
+    "offlineNoticeText": "You are offline",
+    "loginButtonTitle": "Log in / Sign up",
+    "scrollToRefresh": "Scroll to refresh chat list"
+  },
+
+  "chatScreenTexts": {
+    "loadingMessage": "Getting conversation data from server",
+    "dactivatedMessage": "Receiver has deleted the conversation",
+    "placeholder": {
+      "message": "Type a message"
+    },
+    "reportBtnTitle": "Report Abuse",
+    "reportAlertTitle": "Report User",
+    "reportAlertText": "Do you really want to report this user for abusive activity? If you report, the site admins will get a report about this user for abusive activity and will review the report for furture actions. Also this conversation will be deleted and the user will not be able to send any new message through this conversation.",
+    "cancelBtnTitle": "Cancel",
+    "confirmBtnTitle": "Report"
+  },
+
+  "contactUsScreenTexts": {
+    "sendmessageButtontitle": "Send message",
+    "successMessage": "Successfully sent your message",
+    "customServerResponseError": "Server Error!",
+    "formData": {
+      "name": {
+        "label": "Your Name",
+        "placeholder": "Enter Your Name...",
+        "errorLabel": "Name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter Phone Number...",
+        "errorLabel": "Phone Number"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "example@email.com",
+        "errorLabel": "Email"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Your Message...",
+        "errorLabel": "Message"
+      }
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email."
+    }
+  },
+
+  "editListingScreenTexts": {
+    "maxImageWarning": "Maximum number of image is already attached",
+    "title": "Listing Edit Form",
+    "formFieldLabels": {
+      "listingTitle": "Title",
+      "pricingLabel": "Pricing",
+      "priceType": "Price Type",
+      "price": "Price",
+      "maxPrice": "Maximum Price",
+      "listingDescription": "Description",
+      "videoUrl": "Video URL",
+      "contact": "Contact Details",
+      "zipCode": "Zip Code",
+      "address": "Address",
+      "phone": "Phone",
+      "whatsapp": "Whatsapp",
+      "email": "Email",
+      "website": "Website",
+      "name": "Name",
+      "imageInput": "Images",
+      "formTitle": "Product Information",
+      "title": "Title"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email.",
+      "validUrl": "Must be a valid URL."
+    },
+    "buttonTitles": {
+      "tryAgain": "Try Again",
+      "updateListing": "Update Listing",
+      "mapStandard": "Standard",
+      "mapHybrid": "Hybrid"
+    },
+    "mapToggleMessage": "Don't show the map.",
+    "whatsappNote": "Whatsapp number with your country code. Eg.+1xxxxxxxxxx",
+    "uploadErrorNotice": "Error uploading! Please try again.",
+    "uploadingNotice": "This may take a while depending on the speed of your internet connection...",
+    "maxImageCount": "You can upload up to ",
+    "images": " images.",
+    "dragAndSort": "Long press to drag and sort images.",
+    "loading": "Getting listing data",
+    "geoCoderFail": "Map Service Error!",
+    "imageFieldCustomError": "Image is required",
+    "requiredFieldCustomError": "This field is required",
+    "websiteErrorLabel": "Enter Correct Url!",
+    "videoUrlErrorLabel": "Enter Url in correct format!",
+    "videoUrlNote": "E.g.https://www.youtube.com/watch?v=RiXdDGk_XCU",
+    "requiredFieldNotice": "*** Fields marked with red star are required ***",
+    "socialProfileTitle": "Social Profiles"
+  },
+
+  "editPersonalDetailScreenTexts": {
+    "ppChangeTitle": "Set up your profile picture",
+    "formTitle": "PERSONAL INFORMATION",
+    "changePhotoButtonTitle": "Change Photo",
+    "updateDetailsButtonTitle": "Update Detail",
+    "passwordToggleText": "Change Password",
+    "passwordNotSameMessage": "Password didn't match",
+    "successText": "Successfully updated",
+    "errorText": "Error! Please try again",
+    "cancelButtonTitle": "Cancel",
+    "addPhotoTitle": "Add Photo",
+    "takePhotoButtonTitle": "Take Photo",
+    "fromGalleryButtonTitle": "From Gallery",
+    "fieldLabels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "changePassword": "Change Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "phone": "Phone Number",
+      "whatsapp": "Whatsapp Number",
+      "website": "Website",
+      "zipcode": "Zip Code",
+      "address": "Address",
+      "locations": "Locations",
+      "password": "Password"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validUrl": "Must be a valid URL."
+    },
+    "enterNewPassword": "Enter New Password",
+    "reEnterPassword": "Re-enter Password",
+    "cameraRollPermissionAlert": "You need to enable permission to access image library ",
+    "cameraPermissionAlert": "You need to enable permission to access camera "
+  },
+
+  "favoritesScreenTexts": {
+    "removePromptMessage": "Do You want to remove this ad from your favorites?",
+    "cancelButtonTitle": "Cancel",
+    "removeButtonTitle": "Remove",
+    "noFavoriteMessage": "Currently you don't have any favorite ad!",
+    "postAdButtonTitle": "Post an ad now!",
+    "loadingMessage": "Getting favorite listings",
+    "favRemoveSuccessMessage": "Successfully removed",
+    "favRemoveErrorCustomMessage": "Error! Please try again",
+    "customServerResponseError": "Error getting data from server",
+    "noInternet": "No Internet"
+  },
+
+  "homeScreenTexts": {
+    "seAllButtonText": "See all",
+    "loadingMessage": "Getting listings from server",
+    "listingSearchPlaceholder": "Search...",
+    "noListingsMessage": "Sorry...No Listings were found.",
+    "selectLocationText": "Location",
+    "latestAdsText": "Latest Ads",
+    "topCategoriesText": "Top Categories",
+    "requestTimedOut": "Request Timed Out!",
+    "exitAppWarning": "Are you sure you want to exit the app?",
+    "cancelButtonTitle": "Cancel",
+    "yesButtonTitle": "Yes",
+    "retryBtn": "Retry",
+    "refreshBtn": "Refresh"
+  },
+
+  "listingDetailScreenTexts": {
+    "loadingText": "Getting listing data",
+    "soldOutMessage": "Sold out",
+    "cancelButtonTitle": "Cancel",
+    "loginButtonTitle": "Login",
+    "pageTitle": "Details",
+    "showLess": "Show Less",
+    "showMore": "Show More",
+    "sellerPrefix": "For sale by",
+    "description": "Description",
+    "mapButtons": {
+      "standard": "Standard",
+      "hybrid": "Hybrid"
+    },
+    "similar": "Similar Ads",
+    "call": "Call ",
+    "custom_fields": {
+      "date_range": {
+        "start": "Start : ",
+        "end": "End : "
+      },
+      "date_time_range": {
+        "start": "Start : ",
+        "end": "End : "
+      }
+    },
+    "chatLoginAlert": "Please login to chat with this seller",
+    "emailLoginAlert": "Please login to send mail to seller",
+    "loginAlert": "Please login use this feature.",
+    "priceTypes": {
+      "fixed": "Fixed",
+      "onCall": "On Call",
+      "negotiable": "Negotiable"
+    },
+    "socialProfileTitle": "Social Profiles",
+    "businessHoursTitle": "Open Hours",
+    "bHTexts": {
+      "openTitle": "Open",
+      "closeTitle": "Close",
+      "openText": "Open (24 Hours)",
+      "openTodayText": "Open Today (24 Hours)",
+      "closeText": "Closed",
+      "closeTodayText": "Closed Today",
+      "currentStatusOpen": "We are currently open.",
+      "currentStatusClose": "Sorry, we are currently closed."
+    },
+    "whatsappButton": "Open Whatsapp",
+    "showRatingBtn": "Show Ratings",
+    "hideRatingBtn": "Hide Ratings",
+    "ratingHeader": {
+      "zero": "No Rating",
+      "single": " Review",
+      "multiple": " Reviews"
+    },
+    "ratingFormTitle": "Leave a Review",
+    "ratingFormNotice": "Your email address will not be published. Required fields are marked with red star.",
+    "formLabels": {
+      "name": "Name",
+      "email": "Email",
+      "title": "Review Title",
+      "rating": "Your Rating",
+      "review": "Your Review"
+    },
+    "formValidation": {
+      "required": "is required",
+      "invalid": "is invalid"
+    },
+    "submitBtn": "Submit",
+    "reviewNotice": "Your review has been successfully submitted. Once it gets approved, it'll be shown with the other reviews.",
+    "reviewApproved": "Review was successful.",
+    "postTimePrefix": "Posted on ",
+    "deletedValue": "[Value removed by admin]",
+    "panoromaTitle": "360° Virtual Tour",
+    "listingVideoTitle": "Property Video",
+    "yelpTitle": "Yelp Nearby Places",
+    "yelpPlaceDistance": "Distance",
+    "yelpPlaceDistanceUnit": "miles",
+    "floorPlan": {
+      "titleSingle": "Floor Plan",
+      "titlePlural": "Floor Plans",
+      "bedLabel": "Beds",
+      "bathLabel": "Baths",
+      "parkingLabel": "Parking",
+      "areaLabel": "Area"
+    },
+    "seeAllAds": "See All Ads",
+    "verified": "Verified Seller",
+    "share": "Share this ad",
+    "blockAd": "Don't show me this ad",
+    "unfollowSeller": "Don't show me ads from this seller",
+    "reportAd": "Report this ad",
+    "blockAdAlert": "Do you really want to hide this ad? If you hide, this ad will no longer be shown to you.",
+    "blockAdConfirmBtn": "Hide",
+    "blockAdCancelBtn": "Cancel",
+    "blockAdSuccessMessage": "Listing has been successfully hidden.",
+    "blockUserAlert": "Do you really want to block this user? If you block, no ads will be visible to you from this user and he will not be able to send you any message.",
+    "blockUserConfirmBtn": "Block",
+    "blockUserCancelBtn": "Cancel",
+    "blockUserSuccessMessage": "User has been successfully blocked."
+  },
+
+  "hiddenListingsTexts": {
+    "unBlockListingBtnTitle": "UnHide",
+    "unBlockAlert": "Do you really want to unhide this ad?",
+    "okBtnTitle": "Confirm",
+    "cancelBtnTitle": "Cancel",
+    "unBlockSuccessMessage": "Listing has been successfully unhidden.",
+    "listEmptyMessage": "You did not hide any ad yet. Please pull down to refresh list."
+  },
+
+  "blockedUsersTexts": {
+    "unBlockUserBtnTitle": "Unblock",
+    "unBlockAlert": "Do you really want to unblock this user?",
+    "okBtnTitle": "Confirm",
+    "cancelBtnTitle": "Cancel",
+    "unBlockSuccessMessage": "User has been successfully unblocked.",
+    "listEmptyMessage": "You did not block any user yet. Please pull down to refresh list."
+  },
+
+  "loginScreenTexts": {
+    "signUpPrompt": "Don't have an account?",
+    "loginTitle": "Log in to your account",
+    "formFieldsPlaceholder": {
+      "username": "Username / Email",
+      "password": "Password"
+    },
+    "forgotPassword": "Forgot your password?",
+    "passwordReset": "You will receive an email with a link to reset your password.",
+    "cancelButtonTitle": "Cancel",
+    "passwordResetButton": "Send me a link",
+    "resetSuccessMessage": "A Link to reset your password was sent to your email",
+    "signUpButtonTitle": "Sign up now",
+    "loginButtonTitle": "Login",
+    "loginSuccessMessage": "Successfully loged in",
+    "formFieldsLabel": {
+      "username": "Username",
+      "password": "Password",
+      "reset": "Username/Email"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 3 characters."
+    },
+    "customResponseError": "Server error",
+    "socialTitle": "Login With",
+    "socialButtonTitle": {
+      "facebook": "Login with Facebook",
+      "google": "Login with Google"
+    },
+    "pleaseWaitText": "Please Wait!"
+  },
+
+  "membershipsScreenTexts": {
+    "makePayment": "Make Payment",
+    "checkOut": "Check Out"
+  },
+
+  "myListingsScreenTexts": {
+    "loggedOut": "You are not logged in.",
+    "deletePromptMessage": "Do You want to delete",
+    "editPromptMessage": "Do You want to edit",
+    "promotePromptMessage": "Do You want to promote",
+    "soldPromptMessage": "Do You want to mark",
+    "renewPromptMessage": "Do you want to renew",
+    "asUnsold": "as unsold",
+    "asSold": "as sold",
+    "cancelButtonTitle": "Cancel",
+    "okayButtonTitle": "Ok",
+    "deleteButtonTitle": "Delete",
+    "editButtonTitle": "Edit",
+    "promoteButtonTitle": "Promote",
+    "noAdTitle": "Currently you don't have any ad!",
+    "renewButtonTitle": "Renew",
+    "postAdButtonTitle": "Create new ad!",
+    "loadingMessage": "Getting user's ad",
+    "listingDeleteSuccessText": "Successfully deleted",
+    "listingDeleteErrorText": "Error! Please try again",
+    "actionMenuButtons": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "promote": "Promote",
+      "sold": "Mark as sold",
+      "unsold": "Mark as unsold",
+      "renew": "Renew"
+    },
+
+    "promoteLink": "https://radiustheme.com/",
+    "customServerErrorMessage": "Error gettion data from server.",
+    "noInternet": "No Internet"
+  },
+
+  "myMembershipScreenTexts": {
+    "title": "Become our member!",
+    "membershipText": "Membership gives your business a voice and presence on our platform to reach more customers,increase your sales and expand your business! Memberships unlock powerful tools like sales analytics, a dedicated business page and discounted ad promotions.",
+    "emailLabel": "Email : ",
+    "membershipDetailHeader": "Membership Report",
+    "membershipStatusLabel": "Status : ",
+    "subscriptionStatusLabel": "Status : ",
+    "subscriptionNameLabel": "Package Name : ",
+    "subscriptionMethodLabel": "Method : ",
+    "subscriptionCancelBtnTitle": "Cancel Subscription",
+    "subscriptionPMUpdateBtnTitle": "Update",
+    "subscriptionCancelConfirmation": "Do you really want to cancel this subscription?",
+    "cancelBtnTitle": "No",
+    "hideCardElementBtnTitle": "Hide",
+    "paymentMethodUpdateSuccessMessage": "Payment method updated successfully.",
+    "confirmBtnTitle": "Confirm",
+    "membershipValidityLabel": "Validity : ",
+    "remainingAdsLabel": "Remaining Ads : ",
+    "postedAdsLabel": "Posted Ads : ",
+    "freeAdsLabel": "Free Ads : ",
+    "remainingAdsTableLabel": "Remaining Ads",
+    "membershipValidityTableLabel": "Validity",
+    "upgradeMembershipPackageButtonTitle": "Show More Packages",
+    "showMembershipPackageButtonTitle": "Show Membership Packages",
+    "active": "Active",
+    "expired": "Expired",
+    "till": "Till",
+    "expiredOn": "Expired on",
+    "promotions": "Promotions",
+    "validityUnit": "Days",
+    "subscriptionReportTitle": "Subscription Report"
+  },
+
+  "myProfileScreenTexts": {
+    "customResponseError": "Error getting data from server",
+    "title": "PERSONAL INFORMATION",
+    "editBtn": "Edit Profile",
+    "deleteBtn": "Delete Account",
+    "deleteAccount": {
+      "title": "Delete Account!",
+      "message1": "Do you want to delete your account? If you delete your account, your account, all the listings, store and membership data related to your account will be permanently removed and there is no chance to get back them.",
+      "message2": "Are you sure, you want to delete your account and all the data related to your account?",
+      "deleteBtn": "Delete Account",
+      "cancelBtn": "Cancel",
+      "confirmBtn": "Confirm!"
+    },
+    "profileInfoLabels": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "whatsapp": "Whatsapp",
+      "address": "Address",
+      "website": "Website"
+    },
+    "noInternet": "No Internet",
+    "verifyBtnTitle": "Verify",
+    "addPhoneBtnTitle": "Add Phone Number",
+    "phoneVerifyAlert": "Please verify phone number first."
+  },
+
+  "myStoreTexts": {
+    "banner": "Store Banner",
+    "closed": "Closed",
+    "noBanner": "No Banner Uploaded Yet",
+    "logo": "Store Logo",
+    "schedule": "Store Schedule",
+    "hours": "Opening Hours",
+    "selectHours": "Select Opening Hours",
+    "info": "Store Information",
+    "slug": "Store Slug / URL",
+    "storeName": "Store Name",
+    "storeSlogan": "Store Slogan",
+    "storeEmail": "Store Email",
+    "storePhone": "Store Phone",
+    "storeWebsite": "Store Website",
+    "storeAddress": "Store Address",
+    "storeDescription": "Store Description",
+    "storeSocial": "Store Social Links",
+    "facebook": "Facebook URL",
+    "youtube": "Youtube URL",
+    "twitter": "Twitter URL",
+    "linkedin": "LinkedIn URL",
+    "updateStoreButtonTitle": "Update Store",
+    "imagePickerTitle": "Add Photo",
+    "imagePickerCameraText": "Take Photo",
+    "imagePickerGalleryText": "From Gallery",
+    "errorFieldNames": {
+      "slug": "Store Slug / URL",
+      "title": "Store Name",
+      "slogan": "Store Slogan",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "website": "Website",
+      "description": "Description",
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn"
+    },
+    "placeHolders": {
+      "slug": "Store Slug",
+      "title": "Store Name",
+      "slogan": "Store Slogan",
+      "email": "yourstore@store.com",
+      "phone": "+0123456789",
+      "address": "Store Address",
+      "website": "https://www.yourstore.com",
+      "description": "Store Description",
+      "facebook": "https://www.facebook.com/yourstore",
+      "youtube": "https://www.youtube.com/yourstore",
+      "twitter": "https://www.twitter.com/yourstore",
+      "linkedin": "https://www.linkedin.com/yourstore"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email.",
+      "validUrl": "Must be a valid URL."
+    },
+    "successNotifications": {
+      "logo": "Succesfully updated logo.",
+      "banner": "Succesfully updated banner.",
+      "storeInfo": "Succesfully updated store information."
+    },
+    "errorNotification": "Server error. Please Try later.",
+    "userHasNoStore": "User has no store.",
+    "storeCreateMessage": "Do you want to create your store?",
+    "createStoreButtonTitle": "Create Store",
+    "cancelButtonTitle": "Cancel",
+    "cameraRollPermissionAlert": "You need to enable camera roll permission to use this feature",
+
+    "cameraPermissionAlert": "You need to enable permission to access your camera",
+    "recommendedSize": "Recommended size (",
+    "maximum": "Maximum ",
+    "alwaysOpen": "Always Open"
+  },
+
+  "newListingScreenTexts": {
+    "title": "Listing Form",
+    "selectType": "Select a Type",
+    "selectCategory": "Select a Category",
+    "selectLocation": "Select Location",
+    "eligibilityChecking": "Checking Author Eligibility",
+    "noRemainingAds": "Sorry! You have no remaining ads",
+    "purchaseMembership": "Please purchase or renew your membership to post more ads",
+    "goBackButtonTitle": "Go Back",
+    "membershipButtonTitle": "Membership",
+    "notLoggedIn": "You're not logged in",
+    "loginOrSignUp": "Please log in or sign up to create a post",
+    "loginOrSignUpButtonTitle": "Log in / Sign up",
+    "unverifiedTitle": "Unverified Account!",
+    "unverifiedAccountWithoutPhoneNumber": "Please verify your account using phone number.",
+    "unverifiedAccountWithPhoneNumber": "Please verify your phone number.",
+    "verifyBtnTitle": "Verify",
+    "categoryRestriction": "Sorry! Your membership package does not allow to create new ads under this category.",
+    "catagoryLoadError": "Error getting categories. Please try again."
+  },
+
+  "reportScreenTexts": {
+    "serverResponse": {
+      "success": "Successfully submitted report",
+      "fail": "Error subbmitting report, please try again"
+    },
+    "questionText": "Something wrong with this ad?",
+    "directionText": "Please send us a report if you believe there is a problem with this ad?",
+    "formFieldLabels": {
+      "message": "Message"
+    },
+    "formFieldPlaceholders": {
+      "message": "Your Message"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 5 characters."
+    },
+    "sendReportButtonTitle": "Send Report"
+  },
+
+  "searchScreenTexts": {
+    "loadingDataMessage": "Getting data from server",
+    "loadingListingMessage": "Getting listings from server",
+    "noListingFoundMessage": "Sorry! No listing found.",
+
+    "loadingFiltersMessage": "Loading filters",
+    "radiusSearchTitle": "Radius Search",
+    "radiusSearchCenterPlaceholder": "Search center",
+    "locationPermissionAlert": "You need to enable location permission to use this feature",
+    "location": "Location",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "filterTitle": "Filters",
+    "filterLabels": {
+      "sortBy": "Sort by",
+      "listingType": "Listing type",
+      "priceRangeLabel": "Price Range"
+    },
+    "rangeEnd": "To",
+    "rangeStart": "From",
+    "clearAllButtonTitle": "Clear All",
+    "applyFiltersButtonTitle": "Apply Filters"
+  },
+
+  "selectCategoryScreenTexts": {
+    "errorMessages": {
+      "serverError": "Server error",
+      "timeOut": "Request Timed out"
+    },
+    "showAllofCategory": "Show all of",
+    "showAll": "Show all",
+    "selectSubCategory": "Select Sub-Category",
+    "allCategory": "All Category",
+    "listings": "Listings"
+  },
+
+  "selectLocationScreenTexts": {
+    "errorMessages": {
+      "serverError": "Server error",
+      "timeOut": "Request Timed out"
+    },
+    "showAllofLocation": "Show all of",
+    "showAll": "Show all",
+    "nextLevelLocation": "Select next level location"
+  },
+
+  "sendEmailScreenTexts": {
+    "serverResponse": {
+      "success": "Successfully sent email",
+      "fail": "Error sending email, Please try again",
+      "timeOut": "Request Timed out! Please try again"
+    },
+    "formFieldPlaceholders": {
+      "message": "Your Message",
+      "name": "Your Name",
+      "email": "Your email",
+      "phone": "Your phone"
+    },
+    "formFieldLabels": {
+      "message": "Message",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone Number"
+    },
+    "sendEmailButtonTitle": "Send Email",
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email."
+    }
+  },
+
+  "signUpScreenTexts": {
+    "formFieldLabels": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "username": "Username",
+      "phone": "Phone Number",
+      "email": "Email",
+      "password": "Password"
+    },
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength3": "must be at least 3 characters.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength6": "must be at least 6 characters.",
+      "validEmail": "Must be a valid email."
+    },
+    "formFieldPlaceholders": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "username": "Username",
+      "phone": "+123456789",
+      "email": "user@email.com",
+      "password": "Password"
+    },
+    "signupSuccessMessage": "Signup was successful",
+    "mailVerification": "An email was sent to your mail address with a verification link. Please verify your email address before logging in.",
+    "errorMessage": {
+      "timeoutError": "Request Timed out",
+      "serverError": "Server error"
+    },
+    "signUpButtonTitle": "Sign Up"
+  },
+
+  "promoteScreenTexts": {
+    "membershipPromotions": "Membership Promotions",
+    "promotions": "Promotions",
+    "remainingads": "Remaining Ads",
+    "validDuration": "Duration",
+    "validPeriodUnit": "Days",
+    "regularPromotions": "Regular Promotions",
+    "validity": "Validity",
+    "price": "Price",
+    "confirmPromotion": "Confirm Promotion",
+    "proceedToPayment": "Proceed to Payment",
+    "success": "Promotion Successful",
+    "fail": "Promotion Failed",
+    "goBackButton": "Go Back",
+    "checkOut": "Check Out"
+  },
+
+  "paymentMethodScreen": {
+    "selectedPackage": "Selected Package",
+    "promotionConfirmation": "You are promoting",
+    "promotionPlan": "Promotion Plan",
+    "packagePrice": "Package Price",
+    "promotionPrice": "Promotion Price",
+    "subTotal": "Sub Total",
+    "paymentDetail": "Payment Detail",
+    "choosePayment": "Choose Payment Method",
+    "proceedPayment": "Proceed To Payment",
+    "unknownError": "Unknown error occured. Please try again later.",
+    "payment": {
+      "paymentID": "Payment #",
+      "totalAmount": "Paid Amount",
+      "discount": "Coupon Discount",
+      "originalPrice": "Original Price",
+      "date": "Date",
+      "method": "Payment Method",
+      "status": "Payment Status",
+      "transactionID": "Transaction Key",
+      "orderKey": "Order Key",
+      "instructions": "Instructions",
+      "orderDate": "Order date"
+    },
+    "billing": {
+      "requiredError": "This field is required",
+      "title": "Billing Detail",
+      "firstNameTitle": "First Name",
+      "firstNamePlaceholder": "First Name",
+      "lastNameTitle": "Last Name",
+      "lastNamePlaceholder": "Last Name",
+      "companyTitle": "Company Name",
+      "companyPlaceholder": "My Company",
+      "streetAddressTitle": "Street Address",
+      "streetAddressPlaceholder": "House number & Street name",
+      "addressLine2Title": "Apartment, suite, unit, etc.",
+      "addressLine2Placeholder": "Apartment, suite, unit, etc.",
+      "cityorTownTitle": "Town / City",
+      "cityorTownPlaceholder": "Town / City",
+      "emailTitle": "Email address",
+      "emailPlaceholder": "myemail@mail.com",
+      "countryTitle": "Country / Region",
+      "countryPlaceholder": "Country / Region",
+      "stateTitle": "State",
+      "statePlaceholder": "State",
+      "postCodeTitle": "ZIP Code",
+      "postCodePlaceholder": "ZIP Code e.g. 12346",
+      "countryCodeTitle": "Country Code",
+      "countryCodePlaceholder": "Country Code",
+      "phoneTitle": "Phone",
+      "phonePlaceholder": "12434545",
+      "fieldRequiredAlert": "Please fill up all required data.",
+      "fieldRequiredMessage": "The following fields are required \n",
+      "okBtnTitle": "Ok"
+    },
+    "plan": {
+      "pricingOption": "Pricing Option",
+      "membershipTitle": "Membership Title",
+      "duration": "Duration",
+      "amount": "Amount",
+      "details": "Details",
+      "description": "Description"
+    },
+    "closeButton": "Close",
+    "paypalRedirectNotice": "Redirecting to Paypal",
+    "paymentProcessing": "Payment Processing",
+    "goToAccountButton": "Go Back to Account",
+    "invalidCardMessage": "Please enter valid card info.",
+    "paymentVerifying": "Verifying Payment.",
+    "orderSuccess": "Order was successful!",
+    "applyButton": "Apply",
+    "removeButton": "Remove",
+    "couponPlaceholder": "Enter coupon code",
+    "couponDiscount": "Coupon Discount",
+    "couponValidationFailed": "Coupon validation failed. Please try again.",
+    "noPaymentGateway": "No payment gateway data found.",
+    "paymentFailed": "Payment failed!",
+    "retry": "Retry"
+  },
+
+  "paymentsScreenTexts": {
+    "unknownError": "Unknown error occured! Please try again.",
+    "retryButton": "Retry",
+    "paymentMethodPrefix": "Paid via",
+    "refreshButton": "Refresh",
+    "emptyListMessage": "Sorry! You do not have any payment history."
+  },
+
+  "paymentDetailScreen": {
+    "errorNotice": "Error occured while getting payment data!",
+    "originalErrorLabel": "Original Error :",
+    "features": "Features",
+    "invoice": "Invoice No:",
+    "invoiceNo": "Invoice No:",
+    "payNowBtnTitle": "Pay Now"
+  },
+  "paymentScreen": {
+    "goBackBtnTitle": "Go back"
+  },
+  "storeDetailsTexts": {
+    "title": "Store Details",
+    "loadingText": "Getting store data",
+    "nullText": "Not Provided",
+    "alwaysOpen": "Always Open",
+    "emptyListing": "Sorry, This store has no listing yet !",
+    "storeExpired": "This store is unavailable due to membership is expired for this store owner.",
+    "goBackButtonTitle": "Go back",
+    "membership": "Member Since",
+    "membershipMomentFormate": "MMM Do YYYY",
+    "openingHourOpen": "Today Open",
+    "openingHourClose": "Today Closed",
+    "viewMoreButtonText": "View More About This Store",
+    "latestAds": "Latest Ads",
+    "cancelButtonTitle": "Cancel",
+    "viewsCount": "Views : ",
+    "noData": "Data not provided.",
+    "loginButtonTitle": "Login",
+    "loginAlert": "Please login to send mail to store",
+    "fullDayOpen": "Full Day Open",
+    "closed": "Closed today",
+    "openDayStarting": "Open Today from ",
+    "openDayClosing": " To ",
+    "messageToStoreOwner": "Message",
+    "viewMore": "View More About This Store",
+    "callPrompt": "Call this store?"
+  },
+
+  "storeMoreDetailTexts": {
+    "sectionTitles": {
+      "openinigDateTime": "Opening Date & Time",
+      "storeAddress": "Store Address",
+      "storeDetails": "Store Details",
+      "social": "Store Social Links"
+    },
+    "alwaysOpen": "Always Open",
+    "closed": "Closed",
+    "cancelButtonTitle": "Cancel",
+    "noData": "Data not provided.",
+    "loginButtonTitle": "Login",
+    "loginAlert": "Please login to send mail to store",
+    "fullDayOpen": "Full Day Open",
+    "messageToStoreOwner": "Message",
+    "callPrompt": "Call this store?"
+  },
+
+  "datePickerTexts": {
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "okButtonTitle": "OK"
+  },
+
+  "dateRangePickerTexts": {
+    "selectStartDate": "Select Start Date",
+    "selectEndDate": "Select End Date",
+    "selectStartTime": "Select Start Time",
+    "selectEndTime": "Select End Time",
+    "okButtonTitle": "OK"
+  },
+
+  "dynamicFilterListPickerTexts": {
+    "selectText": "Select an option"
+  },
+
+  "myDocScreenTexts": {
+    "titles": {
+      "photoId": "Photo Id",
+      "otherDoc": "Other Document"
+    },
+    "notes": {
+      "photoId": {
+        "maxSize": "Maximum file size ",
+        "types": "Allowed image types "
+      },
+      "otherDoc": {
+        "maxSize": "Maximum file size is 5MB.",
+        "types": "Allowed file types : pdf."
+      }
+    },
+    "errorMsg": {
+      "photoId": {
+        "maxSize": "Maximum allowed file size ",
+        "types": "Allowed image types are "
+      },
+      "otherDoc": {
+        "maxSize": "Maximum allowable file size is 5MB.",
+        "types": "Only pdf files are allowed."
+      }
+    },
+    "buttons": {
+      "upload": "Upload File",
+      "download": "Download File",
+      "change": "Change File"
+    }
+  },
+
+  "dynamicListPickerTexts": {
+    "selectText": "Select a"
+  },
+
+  "favouritesItemTexts": {
+    "viewsText": "Views :"
+  },
+
+  "imageInputTexts": {
+    "cancelButtonTitle": "Cancel",
+    "ifImageLibraryPermissionDenied": "You need to enable permission to access image library",
+    "ifCameraPermissionDenied": "You need to enable permission to access your camera",
+    "deleteMessageHeader": "Delete",
+    "deletePrompt": "Do you really want to remove this image?",
+    "yesButton": "Yes",
+    "noButton": "No",
+    "addPhoto": "Add Photo",
+    "takePhoto": "Take Photo",
+    "fromGallery": "From Gallery"
+  },
+
+  "imageInputListTexts": {
+    "addPhotosButtonTitle": "Add Photos",
+    "addPhotoButtonTitle": "Add Photo"
+  },
+
+  "listingCardTexts": {
+    "soldOutBadgeMessage": "Sold out"
+  },
+
+  "listingFormTexts": {
+    "imageRequired": "**Please attach atleast one image.**",
+    "maxCountLimitReached": "Total number of image exceeded maximum allowable limit.",
+    "maxImageWarning": "Maximum number of image is already attached",
+    "currencyLabel": "Currency",
+    "formTitle": "Product Information",
+    "fieldRequiredErrorMessage": "This field is required",
+    "tnCToggleText": "I have read and agree to the website",
+    "tncText": " Terms and Conditions",
+    "tncTitleText": "Terms and Conditions",
+    "listingTitleLabel": "Title",
+    "videoURLLabel": "Video URL",
+    "pricingLabel": "Pricing",
+    "priceTypeLabel": "Price Type",
+    "priceLabel": "Price",
+    "maxPriceLabel": "Maximum Price",
+    "minPriceLabel": "Minimum Price",
+    "priceUnitLabel": "Price Unit",
+    "listingDescriptionLabel": "Description",
+    "contactTitle": "Contact Details",
+    "zipCodeLabel": "Zip Code",
+    "addressLabel": "Address",
+    "websiteErrorLabel": "Enter Correct Url!",
+    "geoAddressLabel": "Geo Address",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "Whatsapp",
+    "whatsappNote": "Whatsapp number with your country code. Eg.+1xxxxxxxxxx",
+    "emailLabel": "Email",
+    "websiteLabel": "Website",
+    "nameLabel": "Name",
+    "imagesLabel": "Images",
+    "maxImageCount": "You can upload up to ",
+    "images": " images.",
+    "dragSortText": "Long press to drag and sort images.",
+    "uploadingNoticeText": "This may take a while depending on the speed of your internet connection...",
+    "uploadErrorNoticeText": "Error uploading! Please try again.",
+    "submitButtonTitle": "SUBMIT",
+    "socialProfileTitle": "Social Profiles",
+    "tryAgainButtonTitle": "Try again",
+    "mapToggleTitle": "Don't show the map.",
+    "geoCoderFail": "Map Service Error!",
+    "videoURLInvalid": "URL not valid!",
+    "videoURLNote": "E.g. https://www.youtube.com/watch?v=RiXdDGk_XCU",
+    "businessHoursTitle": "Open Hours",
+    "businessHoursToggleTitle": "Activate Opening Hours",
+    "businessHoursToggleNote": "Define your weekly hours",
+    "bHOpenBtnTitle": "Open",
+    "timeSlotToggleButton": "Want to set time slots? (Default All day long)",
+    "timeSlotStartTitle": "Start",
+    "timeSlotEndTitle": "End",
+    "specialHoursToggleTitle": "Special Hours - overrides",
+    "specialHoursToggleNote": "Define your weekly opening hours to override",
+    "formValidation": {
+      "requiredField": "is required.",
+      "minimumLength5": "must be at least 5 characters.",
+      "minimumLength3": "must be at least 3 characters.",
+      "validEmail": "Must be a valid email."
+    },
+    "yelpTitle": "Yelp Nearby Places",
+    "yelpCategoriesTitle": "Select Categories",
+    "panoramaTitle": "Panorama Image",
+    "panoramaDetail": "You can upload one high quality 360 degree panorama image.",
+    "floorPlanTitle": "Floor Plans",
+    "bedLabel": "Bed e.g. 5",
+    "descriptionLabel": "Description",
+    "titleLabel": "Title",
+    "bathLabel": "Bath e.g. 3",
+    "parkingLabel": "parking e.g. Yes",
+    "areaLabel": "Area e.g. 1200 sqft",
+    "addFloorBtnTitle": "Add Floor",
+    "floorTitlePrefill": "Floor",
+    "floorPlanRemoveAlert": "Do you really want to remove this floor?",
+    "floorPlanImgRemoveAlert": "Do you really want to remove this floor Image?",
+    "floorPlanImgChangeAlert": "Do you really want to change this floor Image?",
+    "remove": "Remove",
+    "cancel": "Cancel",
+    "change": "Change",
+    "chooseFile": "Choose File"
+  },
+
+  "myAdsListItemTexts": {
+    "viewsText": "Views : ",
+    "soldOut": "Sold Out"
+  },
+
+  "OHTimePickerTexts": {
+    "okButtonTitle": "OK"
+  },
+
+  "screenTexts": {
+    "noInternetText": "Connection Error! Please check internet connection."
+  },
+
+  "sellerContactTexts": {
+    "call": "Call",
+    "email": "Email",
+    "chat": "Chat"
+  },
+
+  "similarAdListItemTexts": {
+    "viewsText": "Views : "
+  },
+
+  "membershipCardTexts": {
+    "ads": "Ads",
+    "validityUnit": "Days",
+    "regular": "Regular"
+  },
+
+  "callForPrice": "Call For Price",
+
+  "options_user": [
+    {
+      "title": "My Properties",
+      "id": "my_listings"
+    },
+    {
+      "title": "Favorites",
+      "id": "favourite"
+    },
+    {
+      "title": "My Membership",
+      "id": "my_membership"
+    },
+    {
+      "title": "My Store",
+      "id": "my_store"
+    },
+    {
+      "title": "All Stores",
+      "id": "all_stores"
+    },
+    {
+      "title": "Payments",
+      "id": "payments"
+    },
+    {
+      "title": "My Profile",
+      "id": "my_profile"
+    },
+    {
+      "title": "My Documents",
+      "id": "my_documents"
+    },
+    {
+      "title": "Privacy & Safety",
+      "id": "privacy_safety"
+    }
+  ],
+  "drawer_account_options": [
+    {
+      "title": "How to sell fast",
+      "id": "how_to_sell_fast"
+    },
+    {
+      "title": "About Us",
+      "id": "about"
+    },
+    {
+      "title": "App Settings",
+      "id": "settings"
+    }
+  ],
+  "drawer_support_options": [
+    {
+      "title": "Terms & Conditions",
+      "id": "tnc"
+    },
+    {
+      "title": "Privacy Policy",
+      "id": "pp"
+    },
+    {
+      "title": "FAQ",
+      "id": "faq"
+    },
+    {
+      "title": "Contact Us",
+      "id": "contact"
+    }
+  ],
+
+  "appDescription": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "Homlisti is the best Real Estate Mobile App with a creatively crafted, clean, contemporary, and classy layout. It has multiple features that make it perfect for showcasing your classified ads. Although it can serve websites in different niches, Homlisti is ideally suited to real estate Apps.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "UNLIMITED CUSTOM FIELDS",
+        "paraDetail": "You can have unlimited categories with this app. With a larger user base, you will also need the unlimited custom fields option that comes with Homlisti. Multiple Ad Types. With Homlisti, users can present various types of ads depending on what they want with their ads. They can be buy, sell, or to-let ads, and you can control this from the admin end.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "USER DASHBOARD",
+        "paraDetail": "Homlisti avails each front-end user their own dashboard that they can control from their end. It is important to post new ads, promote single ads, check payments, delete ads, check favorite ads, and edit ads.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "EARN FROM AD POSTING",
+        "paraDetail": "Homlisti allows the site owner to earn money from posting various ad promotion options. Users can pay or pay more for top ads, bump up, and featured ads.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "MEMBERSHIP OPTION",
+        "paraDetail": "Homlisti has an agent facility that lets you earn more from having site membership and subscription. You can allow the members permission to all categories or the entire site and allow them a higher number of ads.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "AGENCY & AGENT FACILITY",
+        "paraDetail": "With Homlisti, each one of your users can create their own separate stores. They can add big banners with business descriptions and the opening and closing times of the Agency page. This gives the visitors all the information and ads from the store straightforwardly.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "PAYMENT GATEWAYS",
+        "paraDetail": "Homlisti supports various payment gateways by default, including Offline, PayPal, Stripe, and Authorize.net.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "LIVE CHAT",
+        "paraDetail": "Homlisti has a live chat feature that allows buyers and sellers to communicate seamlessly.",
+        "paraType": "para"
+      }
+    ],
+    "link": "",
+    "linkedPara": []
+  },
+
+  "frequentlyAskedQuestions": [
+    {
+      "question": "How do I post an ad?",
+      "answer": "You can easily post your ad; Just tap on the the plus (+) icon & then login and submit your ad with proper data. You will get a notification after submitting your ad."
+    },
+    {
+      "question": "How do I edit/delete my ads?",
+      "answer": "Simply login and go to Account => my listing & you will get a list of your ads. Each ad has delete option"
+    },
+    {
+      "question": "How to edit my ad?",
+      "answer": "Simply login and go to Account => my listing & you will get a list of your ads. Each ad has edit option"
+    },
+    {
+      "question": "How many days my ads will remain active?",
+
+      "answer": "It depends on your settings how many days the listing will active depends on it ads will be visible "
+    },
+    {
+      "question": "How many ads can I post for free?",
+      "answer": "It depends on your settings on website seller will get no of free ads to post for certain no of days."
+    },
+    {
+      "question": "How can I edit my account information?",
+      "answer": "Login then go to my account, you will get your account information edit option"
+    },
+    {
+      "question": "How to start chat with someone?",
+      "answer": "Go to detail of an ad; you will get email, phone and chat option. Just tap the chat icon and start your conversation."
+    },
+    {
+      "question": "Will I get chat notifications as a Seller?",
+      "answer": "Yes. For chat request or email, seller will get an email notification. For chat, buyer will get first initial message as email notification."
+    }
+  ],
+
+  "sellFastTips": [
+    {
+      "id": 1,
+      "title": "Pick the right price",
+      "detail": "Price is a big factor for customer who purchase the item. So before setting the price visit similar ads and set a reasonable and competitive price."
+    },
+    {
+      "id": 2,
+      "title": "Use great photos",
+      "detail": "Use clear & actual photos of your product/products. You can use multiple images from different view so buyer will get more clear idea about your item/items."
+    },
+    {
+      "id": 3,
+      "title": "Provide clear description",
+      "detail": "Provide clear and detail description of your product. Make sure you've added right information about your items."
+    }
+  ],
+
+  "privacyPolicy": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "At Homlisti, accessible from https://radiustheme.net/publicdemo/homlisti/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Homlisti and how we use it.\n\nIf you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.\n\nThis Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Homlisti. This policy is not applicable to any information collected offline or via channels other than this website.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Consent",
+        "paraDetail": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Information we collect",
+        "paraDetail": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.\n\nIf you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.\n\nWhen you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "How we use your information",
+        "paraDetail": "We use the information we collect in various ways, including to:\n  =>  Provide, operate, and maintain our website\n  =>  Improve, personalize, and expand our website\n  =>  Understand and analyze how you use our website\n  =>  Develop new products, services, features, and functionality\n  =>  Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes\n  =>  Send you emails\n  =>  Find and prevent fraud",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Log Files",
+        "paraDetail": "Homlisti follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Cookies and Web Beacons",
+        "paraDetail": "Like any other website, Homlisti uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Google DoubleClick DART Cookie",
+        "paraDetail": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Our Advertising Partners",
+        "paraDetail": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.\n\n    Google https://policies.google.com/technologies/ads",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Advertising Partners Privacy Policies",
+        "paraDetail": "You may consult this list to find the Privacy Policy for each of the advertising partners of Homlisti.\n\nThird-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Homlisti, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.\n\nNote that Homlisti has no access to or control over these cookies that are used by third-party advertisers.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Third Party Privacy Policies",
+        "paraDetail": "Homlisti’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.\n\nYou can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "CCPA Privacy Rights (Do Not Sell My Personal Information)",
+        "paraDetail": "Under the CCPA, among other rights, California consumers have the right to:\n\nRequest that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.\n\nRequest that a business delete any personal data about the consumer that a business has collected.\n\nRequest that a business that sells a consumer’s personal data, not sell the consumer’s personal data.\n\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "GDPR Data Protection Rights",
+        "paraDetail": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:\n\nThe right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.\n\nThe right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.\n\nThe right to erasure – You have the right to request that we erase your personal data, under certain conditions.\n\nThe right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.\n\nThe right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.\n\nThe right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.\n\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Children’s Information",
+        "paraDetail": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.\n\nHomlisti does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+        "paraType": "para"
+      }
+    ],
+    "link": "",
+    "linkedPara": []
+  },
+
+  "termsAndConditions": [
+    {
+      "paraTitle": "1. Terms",
+      "paraData": "By accessing this Website, accessible from https://radiustheme.net/publicdemo/homlisti/, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law."
+    },
+    {
+      "paraTitle": "2. Use License",
+      "paraData": "Permission is granted to temporarily download one copy of the materials on HomListi’s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:\n\n  =>  modify or copy the materials;\n  =>  use the materials for any commercial purpose or for any public display;\n  =>  attempt to reverse engineer any software contained on HomListi’s Website;\n  =>  remove any copyright or other proprietary notations from the materials; or\n  =>  transferring the materials to another person or “mirror” the materials on any other server.\n\nThis will let HomListi to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format."
+    },
+    {
+      "paraTitle": "3. Disclaimer",
+      "paraData": "All the materials on HomListi’s Website are provided “as is”. HomListi makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, HomListi does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website."
+    },
+    {
+      "paraTitle": "4. Limitations",
+      "paraData": "HomListi or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on HomListi’s Website, even if HomListi or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you."
+    },
+    {
+      "paraTitle": "5. Revisions and Errata",
+      "paraData": "The materials appearing on HomListi’s Website may include technical, typographical, or photographic errors. HomListi will not promise that any of the materials in this Website are accurate, complete, or current. HomListi may change the materials contained on its Website at any time without notice. HomListi does not make any commitment to update the materials."
+    },
+    {
+      "paraTitle": "6. Links",
+      "paraData": "HomListi has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by HomListi of the site. The use of any linked website is at the user’s own risk."
+    },
+    {
+      "paraTitle": "7. Site Terms of Use Modifications",
+      "paraData": "HomListi may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use."
+    },
+    {
+      "paraTitle": "8. Your Privacy",
+      "paraData": "Please read our Privacy Policy."
+    },
+    {
+      "paraTitle": "9. Governing Law",
+      "paraData": "Any claim related to HomListi’s Website shall be governed by the laws of au without regards to its conflict of law provisions."
+    }
+  ],
+  "relativeTime": {
+    "future": "in %s",
+    "past": "%s ago",
+    "s": "a few seconds",
+    "m": "one minute",
+    "mm": "%d minutes",
+    "h": "one hour",
+    "hh": "%d hours",
+    "d": "one day",
+    "dd": "%d days",
+    "M": "one month",
+    "MM": "%d months",
+    "y": "one year",
+    "yy": "%d years"
+  },
+  "promotions": {
+    "_bump_up": "Bump Up",
+    "_top": "Top",
+    "featured": "Featured"
+  },
+  "listingStatus": {
+    "expired": "Expired",
+    "publish": "Published",
+    "pending": "Pending",
+    "draft": "Draft",
+    "reviewed": "Reviewed"
+  },
+  "fixedPriceLabel": "Fixed",
+  "negotiablePriceLabel": "Negotiable"
+}
