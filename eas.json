@@ -6,6 +6,9 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.production.com"
+      },
       "ios": {
         "resourceClass": "default"
       }
@@ -26,6 +29,9 @@
       }
     },
     "test": {
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.test.com"
+      },
       "ios": {
         "simulator": true,
         "resourceClass": "default"
