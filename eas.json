@@ -18,7 +18,11 @@
     },
     "production": {
       "ios": {
-        "resourceClass": "default"
+        "resourceClass": "default",
+        "image": "latest"
+      },
+      "android": {
+        "image": "latest"
       }
     },
     "test": {
@@ -27,7 +31,8 @@
         "resourceClass": "default"
       },
       "android": {
-        "buildType": "apk"
+        "buildType": "apk",
+        "image": "latest"
       }
     }
   },
