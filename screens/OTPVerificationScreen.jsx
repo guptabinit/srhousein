@@ -1,4 +1,4 @@
-// import auth from "@react-native-firebase/auth";
+import auth from "@react-native-firebase/auth";
 import React, { useEffect, useRef, useState } from "react";
 import {
   View,

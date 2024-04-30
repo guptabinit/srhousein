@@ -1,1 +1,1 @@
-export const appName = "HomListi";
+export const appName = "HR House";

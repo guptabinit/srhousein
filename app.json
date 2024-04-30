@@ -1,9 +1,10 @@
 {
   "expo": {
-    "name": "HomListi",
-    "slug": "homlisti",
+    "name": "SR House",
+    "slug": "srhousein",
     "version": "1.31.4",
     "plugins": [
+      "@react-native-firebase/app",
       [
         "expo-build-properties",
         {
@@ -58,12 +59,14 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "bitcode": "Debug",
       "usesAppleSignIn": true,
       "supportsTablet": true,
-      "bundleIdentifier": "com.homlisti",
+      "bundleIdentifier": "com.hrhouseapp",
       "buildNumber": "1",
       "usesIcloudStorage": true,
       "infoPlist": {
@@ -75,7 +78,9 @@
         "NSLocationAlwaysUsageDescription": "HomListi uses device location on listing information, Listing search Data and User information.",
         "NSMicrophoneUsageDescription": "HomListi uses your microphone while taking video of your property for uploading in listing information.",
         "CFBundleAllowMixedLocalizations": true,
-        "UIBackgroundModes": ["remote-notification"]
+        "UIBackgroundModes": [
+          "remote-notification"
+        ]
       },
       "config": {
         "googleMapsApiKey": "j7y6hto8nbgf7ibttyg7ur6",
@@ -86,7 +91,8 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.homlisti",
+      "googleServicesFile": "./google-services.json",
+      "package": "com.hrhouseapp",
       "config": {
         "googleMaps": {
           "apiKey": "j7y6hto8nbgf7ibttyg7ur6"
@@ -110,9 +116,17 @@
         "android.permission.INTERNET",
         "POST_NOTIFICATIONS"
       ],
-      "blockedPermissions": ["READ_CONTACTS"],
+      "blockedPermissions": [
+        "READ_CONTACTS"
+      ],
       "versionCode": 1
     },
-    "scheme": "homlisti"
+    "scheme": "homlisti",
+    "extra": {
+      "eas": {
+        "projectId": "4432cd6e-2e6a-4c2f-8e30-7d6fc430bd00"
+      }
+    },
+    "owner": "binit.gupta"
   }
 }

@@ -91,9 +91,9 @@
   "drawerScreenTexts": {
     "accountTitle": "YOUR ACCOUNT",
     "supportTitle": "LEGALS & SUPPORT",
-    "copyrightText": "2022© All right reserved by",
-    "linkText": "Radiustheme",
-    "link": "https://radiustheme.net/"
+    "copyrightText": "2024© All right reserved by",
+    "linkText": "SRHousein",
+    "link": "https://srhousein.com/"
   },
 
   "headerBackButtonTitle": "Back",
@@ -504,7 +504,7 @@
       "renew": "Renew"
     },
 
-    "promoteLink": "https://radiustheme.com/",
+    "promoteLink": "https://srhousein.com/",
     "customServerErrorMessage": "Error gettion data from server.",
     "noInternet": "No Internet"
   },
@@ -1062,7 +1062,7 @@
     "geoAddressLabel": "Geo Address",
     "phoneLabel": "Phone",
     "whatsappLabel": "Whatsapp",
-    "whatsappNote": "Whatsapp number with your country code. Eg.+1xxxxxxxxxx",
+    "whatsappNote": "Whatsapp number with your country code. Eg.+91xxxxxxxxxx",
     "emailLabel": "Email",
     "websiteLabel": "Website",
     "nameLabel": "Name",
@@ -1187,7 +1187,7 @@
   ],
   "drawer_account_options": [
     {
-      "title": "How to sell fast",
+      "title": "How To Sell Fast",
       "id": "how_to_sell_fast"
     },
     {
@@ -1221,28 +1221,28 @@
   "appDescription": {
     "paras": [
       {
-        "paraTitle": "",
-        "paraDetail": "Homlisti is the best Real Estate Mobile App with a creatively crafted, clean, contemporary, and classy layout. It has multiple features that make it perfect for showcasing your classified ads. Although it can serve websites in different niches, Homlisti is ideally suited to real estate Apps.",
+        "paraTitle": "SRHousein: Connecting Real Estate Professionals",
+        "paraDetail": "",
         "paraType": "para"
       },
       {
-        "paraTitle": "UNLIMITED CUSTOM FIELDS",
-        "paraDetail": "You can have unlimited categories with this app. With a larger user base, you will also need the unlimited custom fields option that comes with Homlisti. Multiple Ad Types. With Homlisti, users can present various types of ads depending on what they want with their ads. They can be buy, sell, or to-let ads, and you can control this from the admin end.",
+        "paraTitle": "142K+ Members in SR Housing:",
+        "paraDetail": "Our premier real estate property portal and mobile app boasts a thriving community of over 142,000 members. Join us for a seamless real estate experience.",
         "paraType": "para"
       },
       {
-        "paraTitle": "USER DASHBOARD",
-        "paraDetail": "Homlisti avails each front-end user their own dashboard that they can control from their end. It is important to post new ads, promote single ads, check payments, delete ads, check favorite ads, and edit ads.",
+        "paraTitle": "Thoughtfully Designed Engagement Tools",
+        "paraDetail": "o Multiple Layouts: Choose the layout that suits your needs.\no Bookmark Properties: Keep track of your favorite properties.\no Direct Agent Engagement: Communicate directly with agents.\no Customizable Fields: Tailor your listings with granular details.",
         "paraType": "para"
       },
       {
-        "paraTitle": "EARN FROM AD POSTING",
-        "paraDetail": "Homlisti allows the site owner to earn money from posting various ad promotion options. Users can pay or pay more for top ads, bump up, and featured ads.",
+        "paraTitle": "User Dashboard:",
+        "paraDetail": "o Manage your ads, view payment summaries, and control your listings from your personalized dashboard.",
         "paraType": "para"
       },
       {
-        "paraTitle": "MEMBERSHIP OPTION",
-        "paraDetail": "Homlisti has an agent facility that lets you earn more from having site membership and subscription. You can allow the members permission to all categories or the entire site and allow them a higher number of ads.",
+        "paraTitle": "Top Ad Posting:",
+        "paraDetail": "o Promote your listings effectively by opting for top ads, featured placements, and more.",
         "paraType": "para"
       },
       {
@@ -1251,13 +1251,18 @@
         "paraType": "para"
       },
       {
-        "paraTitle": "PAYMENT GATEWAYS",
-        "paraDetail": "Homlisti supports various payment gateways by default, including Offline, PayPal, Stripe, and Authorize.net.",
+        "paraTitle": "Register Office:",
+        "paraDetail": "Gakulnagar, Agartala, Tripura, Pincode - 799102",
         "paraType": "para"
       },
       {
-        "paraTitle": "LIVE CHAT",
-        "paraDetail": "Homlisti has a live chat feature that allows buyers and sellers to communicate seamlessly.",
+        "paraTitle": "Helpline Number:",
+        "paraDetail": "0381917855, 9612805975",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Working Time:",
+        "paraDetail": "Monday to Saturday, 9AM To 8PM",
         "paraType": "para"
       }
     ],
@@ -1323,67 +1328,42 @@
     "paras": [
       {
         "paraTitle": "",
-        "paraDetail": "At Homlisti, accessible from https://radiustheme.net/publicdemo/homlisti/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Homlisti and how we use it.\n\nIf you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.\n\nThis Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Homlisti. This policy is not applicable to any information collected offline or via channels other than this website.",
+        "paraDetail": "Welcome to srhousein.com, a classified platform dedicated to facilitating the buying and selling of products. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our website and mobile applications. By accessing or using srhousein.com, you agree to the terms outlined in this Privacy Policy.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Consent",
-        "paraDetail": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+        "paraTitle": "1. Information We Collect:",
+        "paraDetail": "a. Personal Information: - When registering on srhousein.com or through our mobile applications, we collect personal information such as your name, email address, and phone number. - To enhance your experience on our platform, we may also request additional information such as your location, profile picture, and other details.\nb. Transaction Information: - To facilitate transactions between buyers and sellers, we collect information related to your listings, purchases, and sales.\nc. Communication Data: - We store messages exchanged through our internal messaging service on both the website and mobile applications to enable communication between users.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Information we collect",
-        "paraDetail": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.\n\nIf you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.\n\nWhen you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.",
+        "paraTitle": "2. How We Use Your Information:",
+        "paraDetail": "a. Providing Services: - We use your personal information to facilitate transactions, process payments, and provide customer support.\nb. Communication: - Your contact information is used to communicate with you regarding your account, transactions, and promotions.\nc. Improving Services: - We analyze user data from both the website and mobile applications to enhance and customize our services, improving user experience on srhousein.com.\nd. Security: - Your information is crucial for the security of our platform on both the website and mobile applications. We employ measures to protect against unauthorized access, disclosure, alteration, or destruction of your personal information.",
         "paraType": "para"
       },
       {
-        "paraTitle": "How we use your information",
-        "paraDetail": "We use the information we collect in various ways, including to:\n  =>  Provide, operate, and maintain our website\n  =>  Improve, personalize, and expand our website\n  =>  Understand and analyze how you use our website\n  =>  Develop new products, services, features, and functionality\n  =>  Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes\n  =>  Send you emails\n  =>  Find and prevent fraud",
+        "paraTitle": "3. Information Sharing:",
+        "paraDetail": "a. Internal Sharing: - Certain information may be shared internally to provide and improve our services.\nb. Third-Party Service Providers: - We may engage third-party service providers to assist with various aspects of our services, such as payment processing and data analysis.\nc. Legal Compliance: - We may disclose your information if required by law or in response to legal requests.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Log Files",
-        "paraDetail": "Homlisti follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.",
+        "paraTitle": "4. Your Choices:",
+        "paraDetail": "a. Account Information: - You can review and update your account information at any time by logging into your account on srhousein.com or our mobile applications.\nb. Communication Preferences: - You can manage your communication preferences by adjusting your notification settings.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Cookies and Web Beacons",
-        "paraDetail": "Like any other website, Homlisti uses ‘cookies’. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users’ experience by customizing our web page content based on visitors’ browser type and/or other information.",
+        "paraTitle": "5. Security:",
+        "paraDetail": "a. We implement security measures to protect your personal information; however, no method of transmission over the Internet or electronic storage is entirely secure.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Google DoubleClick DART Cookie",
-        "paraDetail": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads",
+        "paraTitle": "6. Updates to Privacy Policy:",
+        "paraDetail": "a. We reserve the right to update this Privacy Policy to reflect changes in our practices and services. We will notify you of any significant changes.",
         "paraType": "para"
       },
       {
-        "paraTitle": "Our Advertising Partners",
-        "paraDetail": "Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.\n\n    Google https://policies.google.com/technologies/ads",
-        "paraType": "para"
-      },
-      {
-        "paraTitle": "Advertising Partners Privacy Policies",
-        "paraDetail": "You may consult this list to find the Privacy Policy for each of the advertising partners of Homlisti.\n\nThird-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Homlisti, which are sent directly to users’ browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.\n\nNote that Homlisti has no access to or control over these cookies that are used by third-party advertisers.",
-        "paraType": "para"
-      },
-      {
-        "paraTitle": "Third Party Privacy Policies",
-        "paraDetail": "Homlisti’s Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.\n\nYou can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers’ respective websites.",
-        "paraType": "para"
-      },
-      {
-        "paraTitle": "CCPA Privacy Rights (Do Not Sell My Personal Information)",
-        "paraDetail": "Under the CCPA, among other rights, California consumers have the right to:\n\nRequest that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.\n\nRequest that a business delete any personal data about the consumer that a business has collected.\n\nRequest that a business that sells a consumer’s personal data, not sell the consumer’s personal data.\n\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
-        "paraType": "para"
-      },
-      {
-        "paraTitle": "GDPR Data Protection Rights",
-        "paraDetail": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:\n\nThe right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.\n\nThe right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.\n\nThe right to erasure – You have the right to request that we erase your personal data, under certain conditions.\n\nThe right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.\n\nThe right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.\n\nThe right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.\n\nIf you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.",
-        "paraType": "para"
-      },
-      {
-        "paraTitle": "Children’s Information",
-        "paraDetail": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.\n\nHomlisti does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.",
+        "paraTitle": "7. Contact Us:",
+        "paraDetail": "a. If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at [contact@srhousein.com].",
         "paraType": "para"
       }
     ],
@@ -1393,40 +1373,60 @@
 
   "termsAndConditions": [
     {
-      "paraTitle": "1. Terms",
-      "paraData": "By accessing this Website, accessible from https://radiustheme.net/publicdemo/homlisti/, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law."
+      "paraTitle": "",
+      "paraData": "These terms and conditions ('Terms') govern your use of the Srhousein website and Android application ('Platform'). By accessing or using the Platform, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please refrain from using the Platform."
     },
     {
-      "paraTitle": "2. Use License",
-      "paraData": "Permission is granted to temporarily download one copy of the materials on HomListi’s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:\n\n  =>  modify or copy the materials;\n  =>  use the materials for any commercial purpose or for any public display;\n  =>  attempt to reverse engineer any software contained on HomListi’s Website;\n  =>  remove any copyright or other proprietary notations from the materials; or\n  =>  transferring the materials to another person or “mirror” the materials on any other server.\n\nThis will let HomListi to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format."
+      "paraTitle": "User Eligibility:",
+      "paraData": "Users must be at least 18 years old to use the Platform. By accessing and using the Platform, you confirm that you meet this age requirement."
     },
     {
-      "paraTitle": "3. Disclaimer",
-      "paraData": "All the materials on HomListi’s Website are provided “as is”. HomListi makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, HomListi does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website."
+      "paraTitle": "Account Registration:",
+      "paraData": "To use certain features of the Platform, you may be required to create an account. You are responsible for providing accurate and up-to-date information during the registration process.\nYou must keep your account credentials, such as username and password, confidential and not share them with others.\nYou are solely responsible for all activities that occur under your account."
     },
     {
-      "paraTitle": "4. Limitations",
-      "paraData": "HomListi or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on HomListi’s Website, even if HomListi or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you."
+      "paraTitle": "User Conduct:",
+      "paraData": "You agree to use the Platform for lawful purposes only and in compliance with all applicable laws and regulations.\nYou must not engage in any conduct that may harm or interfere with the Platform's functionality, security, or integrity."
     },
     {
-      "paraTitle": "5. Revisions and Errata",
-      "paraData": "The materials appearing on HomListi’s Website may include technical, typographical, or photographic errors. HomListi will not promise that any of the materials in this Website are accurate, complete, or current. HomListi may change the materials contained on its Website at any time without notice. HomListi does not make any commitment to update the materials."
+      "paraTitle": "Listing and Selling:",
+      "paraData": "As a seller, you represent and warrant that you have the right to sell the items listed on the Platform.\nYou agree not to list any prohibited or illegal items, including counterfeit or stolen goods.\nSrhousein reserves the right to remove any listings that violate these Terms or are deemed inappropriate."
     },
     {
-      "paraTitle": "6. Links",
-      "paraData": "HomListi has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by HomListi of the site. The use of any linked website is at the user’s own risk."
+      "paraTitle": "Buying and Transactions:",
+      "paraData": "Buyers agree to provide accurate and valid information for successful transactions.Srhousein does not guarantee the availability or condition of the items listed. Buyers are encouraged to review item descriptions and communicate with sellers before making a purchase"
     },
     {
-      "paraTitle": "7. Site Terms of Use Modifications",
-      "paraData": "HomListi may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use."
+      "paraTitle": "Intellectual Property:",
+      "paraData": "The Platform and its content, including but not limited to logos, text, graphics, and images, are the property of Srhousein and protected by applicable copyright and trademark laws.\nUsers may not use, copy, reproduce, or distribute any content from the Platform without prior written consent from Srhousein."
     },
     {
-      "paraTitle": "8. Your Privacy",
-      "paraData": "Please read our Privacy Policy."
+      "paraTitle": "Privacy Policy:",
+      "paraData": "Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your personal information."
     },
     {
-      "paraTitle": "9. Governing Law",
-      "paraData": "Any claim related to HomListi’s Website shall be governed by the laws of au without regards to its conflict of law provisions."
+      "paraTitle": "Termination of Account:",
+      "paraData": "Srhousein reserves the right to terminate or suspend any user account at its sole discretion, without prior notice, for any violation of these Terms or any other reason deemed appropriate."
+    },
+    {
+      "paraTitle": "Disclaimer of Warranties:",
+      "paraData": "The Platform is provided on an 'as is' basis, and Srhousein makes no warranties or representations regarding its functionality, accuracy, or reliability.\nSrhousein disclaims all warranties, whether express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose."
+    },
+    {
+      "paraTitle": "Limitation of Liability:",
+      "paraData": "Srhousein shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of the Platform or any transactions conducted through it."
+    },
+    {
+      "paraTitle": "Modification of Terms:",
+      "paraData": "Srhousein reserves the right to modify or update these Terms at any time without prior notice. Changes will be effective upon posting on the Platform."
+    },
+    {
+      "paraTitle": "Governing Law and Jurisdiction:",
+      "paraData": "These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction]. Any dispute arising from or related to these Terms shall be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction]."
+    },
+    {
+      "paraTitle": "",
+      "paraData": "By using the Srhousein Platform, you acknowledge that you have read, understood, and agreed to these Terms and Conditions. If you do not agree with any part of these Terms, please refrain from using the Platform."
     }
   ],
   "relativeTime": {

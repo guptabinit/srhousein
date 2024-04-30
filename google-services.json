@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910063830639",
+    "project_id": "hr-house",
+    "storage_bucket": "hr-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910063830639:android:de417dee8631fea3926f9a",
+        "android_client_info": {
+          "package_name": "com.hrhouseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtRA24jsPSPW85AtqrE2ZB4xxEStPM3Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
